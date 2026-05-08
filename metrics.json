@@ -2,6 +2,6 @@
     "student_id": "FA23-BAI-019",
     "dataset_version": 1,
     "model_type": "random_forest",
-    "accuracy": 0.92,
+    "accuracy": 0.89,
     "samples": 500
 }
